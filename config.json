@@ -1,0 +1,9 @@
+{
+  "version": "v36",
+  "cat_rate": 0,
+  "proxy_region": "KR",
+  "proxy_ports": 400,
+  "processes": 8,
+  "mode": "m4",
+  "client_mode": "mo"
+}
