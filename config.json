@@ -1,6 +1,6 @@
 {
   "version": "v36",
-  "cat_rate": 0,
+  "cat_rate": 100,
   "proxy_region": "KR",
   "proxy_ports": 400,
   "processes": 8,
