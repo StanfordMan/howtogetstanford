@@ -1,9 +1,0 @@
-{
-  "version": "v38",
-  "cat_rate": 100,
-  "proxy_region": "KR",
-  "proxy_ports": 400,
-  "processes": 8,
-  "mode": "m4",
-  "client_mode": "mo"
-}
